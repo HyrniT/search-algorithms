@@ -1,2 +1,2 @@
-# search-algorithms
+# Search Algorithms
 Artificial Intelligence
